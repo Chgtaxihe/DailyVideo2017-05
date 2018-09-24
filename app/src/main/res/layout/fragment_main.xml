@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.chgtaxihe.dailyvideo.UI.Fragment.MainFragment"
+    android:background="@drawable/pic_grass"
+    >
+
+
+    <!--<Button-->
+        <!--android:id="@+id/btn_goRecord"-->
+        <!--android:background="@drawable/shape"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:text="录像"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_margin="10dp"-->
+        <!--/>-->
+    <!--<android.support.v7.widget.CardView-->
+        <!--android:id="@+id/cardView"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="190dp"-->
+        <!--&gt;-->
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:orientation="vertical">-->
+            <!--<TextView-->
+                <!--android:layout_marginLeft="5dp"-->
+                <!--android:text="我的记录:"-->
+                <!--android:textSize="15dp"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content" />-->
+            <!--<LinearLayout-->
+                <!--android:id="@+id/layout_main"-->
+                <!--android:layout_margin="5dp"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="170dp"-->
+                <!--android:orientation="horizontal">-->
+
+            <!--</LinearLayout>-->
+        <!--</LinearLayout>-->
+
+    <!--</android.support.v7.widget.CardView>-->
+
+</LinearLayout>

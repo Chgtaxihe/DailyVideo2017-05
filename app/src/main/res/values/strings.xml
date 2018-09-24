@@ -1,0 +1,33 @@
+<resources>
+    <string name="nav_video">我的一秒</string>
+    <string name="nav_merged_video">我的记录</string>
+    <string name="nav_record">记录一秒</string>
+    <string name="nav_merge">合并一秒</string>
+    <string name="nav_setting">设置</string>
+    <string name="nav_main">首页</string>
+
+    <string name="app_name">一秒记录</string>
+    <string name="del_cache">删除缓存</string>
+    <string name="start_and_enjoy">开始记录</string>
+    <string name="on_record_regret">你今天录制的一秒已经合并掉啦，不能再后悔啦!</string>
+
+    <string name="btn_ok1">好吧/(ㄒoㄒ)/~~</string>
+    <string name="btn_ok2">我知道了</string>
+    <string name="btn_ok3">......</string>
+
+    <string name="on_merge_too_few_video">你录制的一秒太少了，以后再来合并吧。</string>
+    <string name="on_no_merged_video">哎呀，记录里面空空如也，合并些一秒后再来吧</string>
+    <string name="on_exit_merging">哎呀，视频正在合并呢，稍等片刻吧</string>
+    <string name="press_again_to_exit">再按一次退出</string>
+    <string name="on_btn_help">
+        录制好的视频是不允许删除的哦，不过你可以通过再次录制来将其覆盖~
+    </string>
+    <string name="record_activity_title">点击屏幕开始录像</string>
+    <string name="back_pressed_on_recording">正在录制呢，亲</string>
+    <string name="feedback">
+        如果有任何意见或建议，请发到邮箱 haimeizhuce@xxx.com
+    </string>
+    <string name="author_word">作者的话</string>
+    <string name="author_word_all">作者:我重来没有见过这么丑的App，特别是那个引导页，太丑了！！</string>
+
+</resources>

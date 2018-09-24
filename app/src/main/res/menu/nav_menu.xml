@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_main"
+            android:icon="@drawable/ic_home"
+            android:title="@string/nav_main"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_video"
+            android:title="@string/nav_video" />
+        <item
+            android:id="@+id/nav_record"
+            android:icon="@drawable/ic_camera"
+            android:title="@string/nav_record" />
+        <item
+            android:id="@+id/nav_merge"
+            android:icon="@drawable/ic_scissor"
+            android:title="@string/nav_merge" />
+        <item
+            android:id="@+id/nav_merged_video"
+            android:icon="@drawable/ic_film"
+            android:title="@string/nav_merged_video" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_setting"
+            android:title="@string/nav_setting" />
+    </group>
+</menu>
